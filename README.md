@@ -1,2 +1,2 @@
-# recip-transcript
-A script in python to transcript recips from instagram reels
+# Instagram Transcript
+The repository for a Website using pyscript, instaloader and whisper, to transcript instagram reels to text
